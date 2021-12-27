@@ -254,6 +254,7 @@
                     <br>
                     <div id="response">
 
+                    
                     </div>
                 </form>
             </div>
@@ -271,7 +272,7 @@
     <!-- FOOTER -->
     <footer class="py-3 my-4">
         <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-            <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">GitHub</a></li>
+            <li class="nav-item"><a href="https://github.com/galeanorpo/algoritmos" class="nav-link px-2 text-muted" target="_blank">GitHub</a></li>
         </ul>
         <p class="text-center text-muted">&copy; 2021 Juan Pablo Galeano, Aprendiz</p>
     </footer>
